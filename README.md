@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-Treinos exclusivos para você.
+O seu próximo destino pode estar aqui...
 
 ## ✍️ Aprendizagem
 
